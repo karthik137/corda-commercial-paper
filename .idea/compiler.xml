@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="corda-commercial-paper.clients.main" target="1.8" />
+      <module name="corda-commercial-paper.clients.test" target="1.8" />
+      <module name="corda-commercial-paper.contracts.main" target="1.8" />
+      <module name="corda-commercial-paper.contracts.test" target="1.8" />
+      <module name="corda-commercial-paper.main" target="1.8" />
+      <module name="corda-commercial-paper.test" target="1.8" />
+      <module name="corda-commercial-paper.workflows.integrationTest" target="1.8" />
+      <module name="corda-commercial-paper.workflows.main" target="1.8" />
+      <module name="corda-commercial-paper.workflows.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/corda-commercial-paper.iml" filepath="$PROJECT_DIR$/.idea/corda-commercial-paper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/corda-commercial-paper.clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/corda-commercial-paper.clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/corda-commercial-paper.clients.main.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/corda-commercial-paper.clients.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/corda-commercial-paper.clients.test.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/corda-commercial-paper.clients.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/corda-commercial-paper.contracts.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/corda-commercial-paper.contracts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/corda-commercial-paper.contracts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/corda-commercial-paper.contracts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/corda-commercial-paper.contracts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/corda-commercial-paper.contracts.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corda-commercial-paper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/corda-commercial-paper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corda-commercial-paper.test.iml" filepath="$PROJECT_DIR$/.idea/modules/corda-commercial-paper.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.main.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.test.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/corda-commercial-paper.workflows.test.iml" />
+    </modules>
+  </component>
+</project>
